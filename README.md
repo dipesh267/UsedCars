@@ -22,6 +22,11 @@ If we look at another feature, this time color, we see that initially it doesn't
 
 ![App Screenshot](/images/color-price.png)
 
+The dataset has a lot of columns that aren't in the proper format so they had to be converetd to numerical values as well as covert the categorical columns into numerical using one-hot-encoding process. Some of the colums such as vin number were dropped as they don't provide any value in the value fo the car. 
+Once the intial dataset was prepped, we were able to see that for any model, the odometer is the most important factor in deciding the price of a used car. 
+
+![App Screenshot](/images/odometer-imp.png)
+
 ## Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
