@@ -18,11 +18,13 @@ We can look at various factors of the used car and see how the prices are distri
 
 ![App Screenshot](/images/make_price.png)
 
+If we look at another feature, this time color, we see that initially it doesn't look like it plays a big factor when it comes to the selling price.
+
+![App Screenshot](/images/color-price.png)
+
 ## Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
 
 
-As are considering used cars and most used cars that sell aren't of the ultra premium kind we're going to limit ourselves to cars under $100,000 and see how the mean price is distributed with the condition of the cars.
-As are considering used cars and most used cars that sell aren't of the ultra premium kind we're going to limit ourselves to cars under $100,000 and see how the mean price is distributed with the condition of the cars.
-As are considering used cars and most used cars that sell aren't of the ultra premium kind we're going to limit ourselves to cars under $100,000 and see how the mean price is distributed with the condition of the cars.
+
