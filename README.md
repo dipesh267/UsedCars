@@ -29,7 +29,7 @@ Once the intial dataset was prepped, we were able to see that for any model, the
 
 Odometer has a negative impact on price as we all know. 
 
-![App Screenshot](/images/odo-negaitve.png)
+![App Screenshot](/images/odo-negative.png)
 
 With the value of cars we see a linear trend when considering odometer value but bulding a model with just the odometer results in a very bad accuracy as the Linear regressoin model demostrated with the accuracy of only 19%. 
 
