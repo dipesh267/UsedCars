@@ -14,6 +14,10 @@ As are considering used cars and most used cars that sell aren't of the ultra pr
 
 ![App Screenshot](/images/Unskewed.png)
 
+We can look at various factors of the used car and see how the prices are distributed. Just taking a look at all the models and the mean of their prices we can see brands carry a good resale value and what cars a dealership can consider carrying in stock. We can see that some brands like Land Rover might have a high premium value intially but their value is quite low as a used vehicle. 
+
+![App Screenshot](/images/make_price.png)
+
 ## Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
