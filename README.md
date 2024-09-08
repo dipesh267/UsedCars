@@ -37,7 +37,8 @@ Running a Multiple Linear Regression model with  yealds a better result with 57%
 
 I also ran the Rigde model that yealded 62.5% accuracy on the training data with 59% on the test data. 
 
+### Recommendatoin
 
-
+ I did not consider region when building the model on the next round, I would defintely consider region as part of our ML model. We could consider just our region and focus on specific features. Certain regions might consider trucks and pickups as a high on the feature list whereas sunny regions might consider convertibles a better match. For the current time we should consider low mileage, like new or new condition vechiles. Types of vehicles to consider are sedans and midsize vehicles that run on gas and mostly frontwheel drive.
 
 
